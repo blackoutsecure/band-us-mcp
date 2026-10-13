@@ -1,0 +1,4 @@
+# Synthetic placeholders only. Replace locally; never commit .dev.vars.
+MCP_AUTH_TOKEN="replace-with-a-random-token-at-least-32-characters-long"
+BAND_ACCESS_TOKEN="replace-with-your-private-band-access-token"
+BAND_WRITE_BAND_KEYS=""
